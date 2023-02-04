@@ -19,7 +19,7 @@ Our interpreter can be run as either a stack (LIFO) or queue (FIFO). Mode can be
 
 Clone the repository into a new directory:
 
-    $ git clone https://github.com/BennettDixon/monty.git
+    $ git clone https://github.com/Dontoue/monty.git
 
 Compile with the following:
 
