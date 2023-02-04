@@ -65,7 +65,6 @@ Run the interpreter on a file:
 • sub
 
     ° Subtracts the top element of the stack/queue from the second element from the top.
-
     ° The result is stored in the second element from the top and the top element is removed.
 
 • mul
@@ -224,9 +223,6 @@ Strictly followed Betty style guide. To install
 
 # 📘 Authors
 ° DONALD MWANGA
-
-# 🔍 License
-
 
 # 📣 Acknowledgments
 ° Alx School  (providing guidance)
